@@ -1,0 +1,17 @@
+import React from 'react';
+import {View, Text} from 'react-native';
+
+const Homepage = () => {
+ 
+   return (
+
+   <View style={{flex:1, alignItems:'center', justifyContent:'center'}}> 
+   
+        <Text> Puc Minas </Text>
+   
+   </View>
+
+   );
+}
+
+export default Homepage;
